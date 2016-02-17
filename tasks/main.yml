@@ -1,4 +1,4 @@
- ---
+----
 - name: Clone Drush from GitHub.
   git:
     repo: https://github.com/drush-ops/drush.git
